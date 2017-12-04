@@ -5,7 +5,7 @@
 //  Created by Eun Jae Lee on 4/12/17.
 //  Copyright © 2017 Eun Jae Lee. All rights reserved.
 //
-//  syntax, logic, memory alocation
+//  Master syntax, logic, memory allocation
 
 #include <iostream>
 using namespace std;
